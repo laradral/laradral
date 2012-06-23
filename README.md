@@ -1,4 +1,4 @@
 Laradral
 ========
 
-Laradral
+Coming soon ...
